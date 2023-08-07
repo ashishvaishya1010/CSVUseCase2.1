@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>CSVUse_Case_2._1</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Csv" Version="2.0.93" />
+    <PackageReference Include="CsvHelper" Version="30.0.1" />
+    <PackageReference Include="LumenWorksCsvReader" Version="4.0.0" />
+  </ItemGroup>
+
+</Project>
