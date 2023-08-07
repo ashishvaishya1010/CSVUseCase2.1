@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CSVUse_Case_2.1.props" />
+</Project>

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "hc75HecjiOyEZyFK8KGT0zPKc23tEBY0SOuuwJuXZ8oKj9+NkRZkmBmaDSWsZkjygqCv0TJE1EIfD98n31OLfg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ashish.vaishya\\source\\repos\\CSVUse_Case_2.1\\CSVUse_Case_2.1\\CSVUse_Case_2.1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ashish.vaishya\\.nuget\\packages\\csv\\2.0.93\\csv.2.0.93.nupkg.sha512",
+    "C:\\Users\\ashish.vaishya\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512",
+    "C:\\Users\\ashish.vaishya\\.nuget\\packages\\lumenworkscsvreader\\4.0.0\\lumenworkscsvreader.4.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\CSVUse_Case_2.1.props" />
+</Project>
