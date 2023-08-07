@@ -1,0 +1,40 @@
+prmopts:
+give me 10 billable employees data and also calculate total billable hours -8 ,
+bill rate -variable on ths basis of designation like that software engg/
+senior software engineer /developer /IT consultant.
+ use synthetic data for the june month
+
+
+
+
+| Employee  | Designation         | Billable Hours | Bill Rate (per hour) |
+|-----------|---------------------|----------------|---------------------|
+| Employee1 | Software Engineer   | 160            | $50                 |
+| Employee2 | Senior Software Eng | 180            | $60                 |
+| Employee3 | Developer           | 140            | $55                 |
+| Employee4 | IT Consultant       | 200            | $70                 |
+| Employee5 | Software Engineer   | 170            | $50                 |
+| Employee6 | Developer           | 160            | $55                 |
+| Employee7 | Senior Software Eng | 190            | $60                 |
+| Employee8 | IT Consultant       | 180            | $70                 |
+| Employee9 | Developer           | 150            | $55                 |
+| Employee10| IT Consultant       | 190            | $70                 |
+
+Software Engineer:
+Total Billable Hours for Software Engineers = 160 + 170 = 330 hours
+Total Billable Amount for Software Engineers = (160 * $50) + (170 * $50) = $16,500
+
+Senior Software Engineer:
+Total Billable Hours for Senior Software Engineers = 180 + 190 = 370 hours
+Total Billable Amount for Senior Software Engineers = (180 * $60) + (190 * $60) = $21,600
+
+Developer:
+Total Billable Hours for Developers = 140 + 160 + 150 = 450 hours
+Total Billable Amount for Developers = (140 * $55) + (160 * $55) + (150 * $55) = $24,750
+
+IT Consultant:
+Total Billable Hours for IT Consultants = 200 + 180 + 190 = 570 hours
+Total Billable Amount for IT Consultants = (200 * $70) + (180 * $70) + (190 * $70) = $39,900
+
+Therefore, the total billable hours for all employees in the month of June is 330 + 370 + 450 + 570 = 1,720 hours.
+The total billable amount for all employees in the month of June is $16,500 + $21,600 + $24,750 + $39,900 = $102,750.
