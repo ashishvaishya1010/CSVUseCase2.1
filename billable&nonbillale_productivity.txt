@@ -1,0 +1,18 @@
+prompt :-
+give me a employees productivity percentage for billable employees and non billable
+employees assign a bonus of 15000 to top each billable employees and non billable  
+employees and also show the employees name ,total present day ,type(billable or non billable ),
+designation, productivity percentage
+
+| Employee    | Total Present Days | Type       | Designation         | Billable Hours | Non-Billable Hours | Productivity % | Bonus       |
+|-------------|--------------------|------------|---------------------|----------------|--------------------|----------------|-------------|
+| Emp1        | 25                 | Billable   | Software Engineer   | 160            | 40                 | 80%            | $15,000     |
+| Emp2        | 26                 | Non-Billable| HR Manager          | 0              | 208                | 0%             | $15,000     |
+| Emp3        | 24                 | Billable   | Developer           | 140            | 60                 | 70%            | $0          |
+| Emp4        | 25                 | Billable   | IT Consultant       | 200            | 0                  | 100%           | $0          |
+| Emp5        | 25                 | Non-Billable| Marketing Executive | 0              | 200                | 0%             | $0          |
+| Emp6        | 26                 | Billable   | Software Engineer   | 180            | 40                 | 81.81%         | $0          |
+| Emp7        | 25                 | Billable   | Developer           | 160            | 40                 | 80%            | $0          |
+| Emp8        | 26                 | Non-Billable| Finance Analyst     | 0              | 208                | 0%             | $0          |
+| Emp9        | 25                 | Billable   | IT Consultant       | 190            | 0                  | 100%           | $0          |
+| Emp10       | 26                 | Billable   | Software Engineer   | 170            | 40                 | 81.36%         | $0          |
